@@ -9,7 +9,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/holleB/swift-cwinrt", branch: "main"),
-        .package(url: "https://github.com/hollE/swift-uwp", branch: "main"),
+        .package(url: "https://github.com/holleB/swift-uwp", branch: "main"),
         .package(url: "https://github.com/holleB/swift-windowsappsdk", branch: "main"),
         .package(url: "https://github.com/holleB/swift-windowsfoundation", branch: "main"),
     ],
